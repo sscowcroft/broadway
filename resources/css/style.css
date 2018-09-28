@@ -1,0 +1,33 @@
+body {
+  text-align: center;
+  font-family:Helvetica;
+}
+
+h1 {
+  color:white;
+  font-size:70px;
+  font-weight:bold;
+}
+
+h2 {
+  font-size:32px;
+  font-weight:bold;
+}
+
+h3 {
+  font-size:23px;
+  font-weight:bold;
+}
+
+p {
+  font-size:14px;
+}
+
+.header {
+  background-image: url("/Users/sylviescowcroft/code/broadway/resources/images/the-flatiron-building.png");
+  color:white;
+}
+
+.footer {
+  text-align: left;
+}
