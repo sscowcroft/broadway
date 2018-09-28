@@ -37,3 +37,8 @@ p {
   color:white;
   background-color: dimgray;
 }
+
+.btn-nav {
+  color:white;
+  font-size:18px;
+}
